@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello everyone, I'm Rodrigo E. Quinteros, a Software Engineering student at the Universidad Nacional Mayor de San Marcos (2018 - currently), Lima - Peru. 🇵🇪
 <!--
 **QPRodrigo/QPRodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
