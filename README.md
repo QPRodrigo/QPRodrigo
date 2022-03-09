@@ -15,6 +15,12 @@ Hola a todos, soy Rodrigo E. Quinteros, estudiante de Ingeniería de Software en
   <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/docker.svg">
 <br/> 
 
+[![Rodrigo E. Quinteros github stats](https://github-readme-stats.vercel.app/api?username=QPRodrigo&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=QPRodrigo.QPRodrigo&title=Visitas%20perfil) 
+
 <!--
 **QPRodrigo/QPRodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
