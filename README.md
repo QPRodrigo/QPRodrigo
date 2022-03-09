@@ -10,7 +10,8 @@ Hello everyone, I'm Rodrigo E. Quinteros, a Software Engineering student at the 
   <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/nodejs.svg"> &nbsp; &nbsp; 
   <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/java.svg"> &nbsp; &nbsp; 
   <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/c%2B%2B.svg"> &nbsp; &nbsp; 
-  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/git.svg">
+  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/git.svg"> &nbsp; &nbsp; 
+  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/docker.svg">
 <br/> 
 
 <!--
