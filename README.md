@@ -1,8 +1,8 @@
 # [Rodrigo E. Quinteros Peralta](https://www.linkedin.com/in/rodrigo-e-quinteros-peralta-6a626b222/) 
 [![Twitter Badge](https://img.shields.io/badge/-@rodrigo_eqp-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rodrigo_eqp)](https://twitter.com/rodrigo_eqp) [![Linkedin Badge](https://img.shields.io/badge/-rodrigo_eqp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-e-quinteros-peralta-6a626b222/)](https://www.linkedin.com/in/rodrigo-e-quinteros-peralta-6a626b222/)[![Gmail Badge](https://img.shields.io/badge/-connectwithrodrigoqp0722@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:connectwithrodrigoqp0722@gmail.com)](mailto:connectwithrodrigoqp0722@gmail.com)[![GitHub Badge](https://img.shields.io/badge/-@QPRodrigo-%23181717?style=flat-square&logo=github)](https://github.com/QPRodrigo)[![Gmail Badge](https://img.shields.io/badge/-connectwithrodrigo.quinteros@unmsm.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:connectwithrodrigo.quinteros@unmsm.edu.pe)](mailto:connectwithrodrigo.quinteros@unmsm.edu.pe)
 ---
-## Hola a todos,
-Hola a todos, soy Rodrigo E. Quinteros, estudiante de Ingeniería de Software en la [Universidad Nacional Mayor de San Marcos](https://unmsm.edu.pe/) (2018 - actualmente), Lima - Perú. 🇵🇪
+## <img src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/wave.gif" width="27px"> Hola a todos,
+¡Hola a todos! soy Rodrigo E. Quinteros, estudiante de Ingeniería de Software en la [Universidad Nacional Mayor de San Marcos](https://unmsm.edu.pe/) con deseos de especializarme en el area de Ciencia de Datos.
 
  ## ⚡ Tecnologías
   <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/R.svg"> &nbsp; &nbsp;
