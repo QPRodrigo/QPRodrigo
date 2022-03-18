@@ -4,7 +4,7 @@
 ## <img src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/wave.gif" width="27px"> Hola a todos,
 ¡Hola a todos! Soy Rodrigo E. Quinteros, estudiante de Ingeniería de Software en la [Universidad Nacional Mayor de San Marcos](https://unmsm.edu.pe/) con deseos de especializarme en el área de Ciencia de Datos.
 
-Mis proyectos relacionados al área de Ciencia de Datos. https://bit.ly/34Wgi8M
+<img src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/Estadistica.gif" width="27px"> Mis proyectos relacionados al área de Ciencia de Datos. https://bit.ly/34Wgi8M
 
  ## ⚡ Tecnologías
   <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/R.svg"> &nbsp; &nbsp;
