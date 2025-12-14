@@ -6,6 +6,18 @@
 
 Mis proyectos relacionados al área de Ciencia de Datos. https://bit.ly/34Wgi8M
 
+## 📄 Publicación Científica
+
+**Machine Learning For The Prediction Of Anemia In Children Under 5 Years Of Age By Analyzing Their Nutritional Status Using Data Mining**  
+📘 *Revista Computación y Sistemas* | **Coautor**  
+🔗 **DOI:** [10.13053/CyS-27-3-4315](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/4315)
+
+- Desarrollo de un **proceso ETL** en Python para la limpieza y transformación de datos nutricionales.
+- Entrenamiento y validación de **modelos de clasificación** usando técnicas de Machine Learning.
+- Evaluación de métricas para seleccionar el **modelo con mejor desempeño**.
+
+**Herramientas:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook, IA.
+
  ## ⚡ Tecnologías
   <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/R.svg"> &nbsp; &nbsp;
   <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/py.svg"> &nbsp; &nbsp;
